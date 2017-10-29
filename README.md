@@ -4,7 +4,7 @@
 This is the my 1st ever academic project in Data Science. It's a simple property search engine, based on the the ads provided by the website http://kijiji.com/: in particular, we're interested only in the announcements in Rome.
 
 ## Getting Started
-Simply rules to run the project on your laptop:
+Simple rules to run the project on your laptop:
 1. Clone the repository
 
 2. Execute *Search_engine.py* in *src* folder

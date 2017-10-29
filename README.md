@@ -1,3 +1,5 @@
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 
 # My first SearchEngine
 This is the my 1st ever academic project in Data Science. It's a simple property search engine, based on the the ads provided by the website http://kijiji.com/: in particular, we're interested only in the announcements in Rome.

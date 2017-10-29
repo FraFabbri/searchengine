@@ -1,4 +1,3 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 
 # My first SearchEngine
@@ -10,10 +9,10 @@ Simply rules to run the project on your laptop:
 
 2. Execute *Search_engine.py* in *src* folder
 
-3. The instructions on the prompt will guide you through the steps (specify the size of the DB$^*$, write the query)
+3. The instructions on the prompt will guide you through the steps (specify the size of the DB*, write the query)
 
 
-$*$ **N.B.** If you want to change the number of pages, you have to move to the bin the *documents* and *index* folders,then execute again *Search_engine.py* 
+* **N.B.** If you want to change the number of pages, you have to move to the bin the *documents* and *index* folders,then execute again *Search_engine.py* 
 
 ## Installing
 

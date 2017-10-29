@@ -6,7 +6,7 @@ This is the my 1st ever academic project in Data Science. It's a simple property
 Simply rules to run the project on your laptop:
 1. Clone the repository
 
-2. Execute *Search_engine.py*
+2. Execute *Search_engine.py* in *src* folder
 
 3. The instructions on the prompt will guide you through the steps (specify the size of the DB$^*$, write the query)
 

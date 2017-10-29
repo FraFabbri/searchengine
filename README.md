@@ -2,7 +2,7 @@
 # My first SearchEngine
 This is the my 1st ever academic project in Data Science. It's a simple property search engine, based on the the ads provided by the website http://kijiji.com/: in particular, we're interested only in the announcements in Rome.
 
-# Getting Started
+## Getting Started
 Simply rules to run the project on your laptop:
 1. Clone the repository
 
@@ -13,13 +13,13 @@ Simply rules to run the project on your laptop:
 
 $*$ **N.B.** If you want to change the number of pages, you have to move to the bin the *documents* and *index* folders,then execute again *Search_engine.py* 
 
-# Installing
+## Installing
 
 ```
 git clone https://github.com/FraFabbri/searchengine
 ```
 
-# Screenshots
+## Screenshots
 
 <table style="width:100%">
  <tr>

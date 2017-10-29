@@ -19,7 +19,7 @@ $*$ **N.B.** If you want to change the number of pages, you have to move to the 
 git clone https://github.com/FraFabbri/searchengine
 ```
 
-## Screenshots
+# Screenshots
 
 <table style="width:100%">
  <tr>
